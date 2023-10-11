@@ -39,7 +39,7 @@ h1 {
 
 
 section {
-    
+    background-color: rgb(209,190,173);
 
 }
 
@@ -55,10 +55,19 @@ p {
 
 [type="checkbox"] {
     display: flex;
+    text-decoration: line-through;
     flex-direction: row; */
     justify-content: space-between;
     align-items: center;
     flex-wrap: nowrap;
     padding: 10px 20px;
 
+}
+
+.product {
+    text-decoration: line-through;
+    background-color: rgb(209,190,173);
+}
+.mybody {
+    background-color: rgb(209,190,173);
 }
