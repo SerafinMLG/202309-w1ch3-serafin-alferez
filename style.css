@@ -1,0 +1,73 @@
+body {
+    align-items:center;
+    justify-content: center;
+    width: 600px;
+}
+
+header {
+    background-color: rgb(173, 108, 233);
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div {
+    display: flex;
+    padding: 3px;
+    margin: 0%;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+h1 {
+
+}
+
+[title="barra de estado"] {
+    background-color: rgb(208,157,114);
+    text-align: right;
+
+}
+
+[title="lastprice"] {
+    text-align: right;
+    margin-left: 90%;
+
+}
+
+
+section {
+    background-color: rgb(209,190,173);
+
+}
+
+nav {
+display: flex;
+font-size: 20px;
+}
+
+p {
+    display: flex;
+    margin: 4px;
+}
+
+[type="checkbox"] {
+    display: flex;
+    text-decoration: line-through;
+    flex-direction: row; */
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding: 10px 20px;
+
+}
+
+.product {
+    text-decoration: line-through;
+    background-color: rgb(209,190,173);
+}
+.mybody {
+    background-color: rgb(209,190,173);
+}
